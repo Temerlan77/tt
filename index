@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style = color:red; align="center">My holidays</h1>
+    <style>
+        body{
+            background-color:rgb(68, 196, 196);
+        }
+        .Aida{
+            border: 4px double black; /* Параметры границы */
+            background: #fc3; /* Цвет фона */
+            padding: 10px; /* Поля вокруг текста */
+        }
+        h1{
+            font-size: 70px;
+        }
+    </style>
+   <div class = "Aida">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque inventore consectetur dolorum est corporis rerum temporibus quia qui! Quod eum maxime ea excepturi alias rem consectetur soluta quidem debitis unde!
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, earum repellat magnam atque, nesciunt dolores voluptatum architecto obcaecati nulla et pariatur aperiam itaque corrupti quibusdam minus molestias eveniet. Tempore, repellat.
+   </div>
+   <p class = "Aida">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit cumque tenetur illum facere aperiam pariatur magnam nulla dicta corrupti alias architecto, temporibus amet doloremque minus cum cupiditate quos molestias vel.</p>
+    </body>
+</html>
